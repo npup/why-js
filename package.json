@@ -1,0 +1,17 @@
+{
+    "name": "why-js",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "astro dev",
+        "build": "astro build"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "astro": "^0.24.0",
+        "prettier-plugin-astro": "^0.0.12"
+    }
+}
