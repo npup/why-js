@@ -11,7 +11,7 @@
     "author": "",
     "license": "ISC",
     "devDependencies": {
-        "astro": "^0.24.0",
+        "astro": "^0.23.7",
         "prettier-plugin-astro": "^0.0.12"
     }
 }
